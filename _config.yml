@@ -1,0 +1,28 @@
+name: torbenkuhlephotography
+favicon: null
+layout_spectrum: 0.6086519134696573
+typography_spectrum: 0.0644825401250273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5324145709164441
+  lightness: 0.3640500931069255
+  saturation: 0.863213439239189
+  rhythmicContrast: 0.6855053850449622
+purpose: []
